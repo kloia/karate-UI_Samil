@@ -1,5 +1,4 @@
 Feature: bestBuy
-
   Background: bg
     * configure driver = {type: 'chrome'}
     * driver 'https://www.bestbuy.com'
